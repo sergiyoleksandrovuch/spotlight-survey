@@ -1,0 +1,1 @@
+window.SURVEY_CONFIG={endpoint:"https://script.google.com/macros/s/AKfycbyodDlimipaK9oaylthsceiz6hDFqFyLu89yC4XJ3UpKfF1uu5X8hhkH0bNTLj53n-H/exec",city:"Дніпро"};
